@@ -1,16 +1,64 @@
-# React + Vite
+# 🧑‍💼 Online Resume Builder & Portfolio Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application that allows users to build professional resumes manually or by uploading an existing resume, with live preview and PDF export functionality.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** (will be added after Netlify deployment)  
+🔗 **GitHub Repo:** https://github.com/thanushv2426/Portfolio-Generator
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📝 Build resume manually using a clean, structured form
+- 📄 Upload existing resume (PDF/DOC) – parsing planned
+- 👀 Live resume preview while typing
+- 🎨 Multiple resume templates (Classic & Modern)
+- 🖨️ One-click PDF generation (print-optimized)
+- 📱 Fully responsive design
+- 🎯 Clean UI with demo resume previews
+- 🧩 Modular & scalable React component structure
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+**Tooling**
+- ESLint (Flat Config)
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+│   ├── Form/
+│   │   └── ResumeForm.jsx
+│   ├── Preview/
+│   │   └── ResumePreview.jsx
+│   └── Templates/
+│       ├── TemplateOne.jsx
+│       └── TemplateTwo.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+---
+
+## 👤 Author
+
+**V.THANUSH**  
+Aspiring Full-Stack Developer  
+
+📍 India  
+🔗 GitHub: https://github.com/thanush2426  
+🔗 Live Project: https://portfolio-generator-1212.netlify.app/
+
