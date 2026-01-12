@@ -2,7 +2,7 @@
 
 A modern, responsive web application that allows users to build professional resumes manually or by uploading an existing resume, with live preview and PDF export functionality.
 
-🔗 **Live Demo:** (will be added after Netlify deployment)  
+🔗 **Live Demo:** (https://portfolio-generator-1212.netlify.app/)  
 🔗 **GitHub Repo:** https://github.com/thanushv2426/Portfolio-Generator
 
 ---
@@ -60,5 +60,5 @@ Aspiring Full-Stack Developer
 
 📍 India  
 🔗 GitHub: https://github.com/thanush2426  
-🔗 https://portfolio-generator-1212.netlify.app/
+
 
