@@ -60,5 +60,5 @@ Aspiring Full-Stack Developer
 
 📍 India  
 🔗 GitHub: https://github.com/thanush2426  
-🔗 Live Project: https://portfolio-generator-1212.netlify.app/
+🔗 https://portfolio-generator-1212.netlify.app/
 
